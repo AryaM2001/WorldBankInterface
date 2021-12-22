@@ -1,0 +1,9 @@
+Brazil,BRA
+Canada,CAN
+China,CHN
+France,FRA
+Germany,DEU
+India,IND
+Mexico,MEX
+United Kingdom,GBR
+USA and Puerto Rico,USA

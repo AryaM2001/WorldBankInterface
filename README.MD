@@ -1,0 +1,1 @@
+Use login proxy to run. Use credentials.txt for usernames and passwords
